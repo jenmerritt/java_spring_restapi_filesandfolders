@@ -1,5 +1,4 @@
 package com.codeclan.example.filesandfolders.components;
-
 import com.codeclan.example.filesandfolders.models.File;
 import com.codeclan.example.filesandfolders.models.Folder;
 import com.codeclan.example.filesandfolders.models.User;
