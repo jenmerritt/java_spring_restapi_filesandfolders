@@ -11,6 +11,3 @@ Testing RESTful Routes in Insomnia to Get, Post, Put, Patch and Delete:
 
 API in the browser, displaying at localhost/users:
 ![Image of API](users.png)
-
-Code from Folder.java file, setting up class and annotations:
-![Image of folder code](folder.png)
